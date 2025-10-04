@@ -1,0 +1,55 @@
+body {
+    background-color: #fff1e6;
+    color: #282425;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+a {
+    color: #756158;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic; 
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+}
+
+h3{
+    font-size: 24px;
+}
+
+a {
+    font-style: italic;
+}
+
+.menu,.paticka{
+    background-color: #282425;
+    color:white;
+    text-align: center;
+}
+
+.fotogalerie, .kontakt{
+    background-color: #f9e3d0;
+}
+
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
